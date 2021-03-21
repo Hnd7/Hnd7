@@ -16,7 +16,8 @@
 </div>
 
 - 🌱 ALWAYS CURIOUS TO LEARN.
-- ⚡  ENTHUSIAST TOWARDS AI. 
+- ⚡ ENTHUSIAST TOWARDS AI and R&D.
+
 
 <br>
 
