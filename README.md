@@ -19,6 +19,7 @@
 <div align="center">
 <h3>💻 Machine Learning Intern | 🌏 Istanbul / Turkey </h3>
 </div>
+<br>
 
 - 🌱 ALWAYS CURIOUS TO LEARN.
 - ⚡ ENTHUSIAST TOWARDS AI AND R&D.
