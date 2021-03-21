@@ -7,12 +7,17 @@
 <div align="center">
  <a href="https://www.linkedin.com/in/hande-nur-%C5%9Fen-278341110/" target="_blank">
    <img align="center" alt="Hande Nur Şen | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
+
+ 
+
+ <a href="https://www.kaggle.com/handee" target="_blank">
+   <img align="center" alt="Hande Nur Şen | Linkedin " width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"</a>
 </div>
 
 <br>
 
 <div align="center">
-<h3>💻 Machine Learning Intern | 🌏 Istanbul/ Turkey </h3>
+<h3>💻 Machine Learning Intern | 🌏 Istanbul / Turkey </h3>
 </div>
 
 - 🌱 ALWAYS CURIOUS TO LEARN.
