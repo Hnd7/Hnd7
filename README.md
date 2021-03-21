@@ -10,7 +10,7 @@
 
  
 
- <a href="https://www.kaggle.com/handee" target="_blank">
+ <a href="https://www.kaggle.com/handee/code" target="_blank">
    <img align="center" alt="Hande Nur Şen | Linkedin " width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"</a>
 </div>
 
