@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Hande Nur Şen
+- 🌱 ALWAYS CURIOUS TO LEARN.
+- ⚡  ENTHUSIAST TOWARDS AI. 
 
+([![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com))
 <!--
 **Hnd7/Hnd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 ALWAYS CURIOUS TO LEARN.
-- ⚡  ENTHUSIAST TOWARDS AI. 
--
-([![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com))
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
