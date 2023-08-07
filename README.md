@@ -28,7 +28,7 @@
 <br>
 
 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
 
 <!--
 **Hnd7/Hnd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
